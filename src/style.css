@@ -53,7 +53,7 @@ main {
 
 }
 
-@media (max-width:375px){
+@media (max-width:768px){
     .caixa-conselho {
         max-width: 290px;
         max-height: 250px;
